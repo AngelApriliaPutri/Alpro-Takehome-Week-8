@@ -1,0 +1,15 @@
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\TH W8\TH W8\bin\Debug\net6.0\TH W8.exe
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\TH W8\TH W8\bin\Debug\net6.0\TH W8.deps.json
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\TH W8\TH W8\bin\Debug\net6.0\TH W8.runtimeconfig.json
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\TH W8\TH W8\bin\Debug\net6.0\TH W8.dll
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\TH W8\TH W8\bin\Debug\net6.0\TH W8.pdb
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\TH W8\TH W8\obj\Debug\net6.0\TH W8.csproj.AssemblyReference.cache
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\TH W8\TH W8\obj\Debug\net6.0\TH W8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\TH W8\TH W8\obj\Debug\net6.0\TH W8.AssemblyInfoInputs.cache
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\TH W8\TH W8\obj\Debug\net6.0\TH W8.AssemblyInfo.cs
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\TH W8\TH W8\obj\Debug\net6.0\TH W8.csproj.CoreCompileInputs.cache
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\TH W8\TH W8\obj\Debug\net6.0\TH W8.dll
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\TH W8\TH W8\obj\Debug\net6.0\refint\TH W8.dll
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\TH W8\TH W8\obj\Debug\net6.0\TH W8.pdb
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\TH W8\TH W8\obj\Debug\net6.0\TH W8.genruntimeconfig.cache
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\TH W8\TH W8\obj\Debug\net6.0\ref\TH W8.dll
